@@ -1,0 +1,2 @@
+# DISNEY-SOCIAL-MEDIA
+The files incorporated here were developed on SPSS Statistics for NPL classification for Sentiment Analysis in opinions from TOPA's followers (a Argentine's Disney celebrity) using a Processing of No-Directed surveys from web-site, and Snippet extracting as twitter-concepts/categories with creating a word-cloud for the various keywords extracted (by specific hashtags) from api.twitter.com
